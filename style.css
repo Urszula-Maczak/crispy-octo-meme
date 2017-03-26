@@ -132,6 +132,11 @@ img:hover {
 .card:hover {
 	transform: scale(1.1);
 }
+/*form*/
+.form {
+	margin: 50px auto;
+
+}
 /*footer*/
 footer .container {
 	height: 100px;
